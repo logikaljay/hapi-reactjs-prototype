@@ -1,0 +1,29 @@
+{
+  "name": "hapi-react-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "commit": "git-cz"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.2.1",
+    "hapi": "^11.1.2",
+    "hapi-react-views": "^5.0.0",
+    "hapi-router": "^3.4.0",
+    "react": "^0.14.3",
+    "vision": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel": "^6.1.18",
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-react": "^6.1.18",
+    "commitizen": "^2.4.6",
+    "cz-conventional-changelog": "^1.1.4",
+    "webpack": "^1.12.9"
+  }
+}
